@@ -1,7 +1,15 @@
-# My Project
+# SRGAN Image Super-Resolution
 
-This is a Python project for image super-resolution using SRGAN.
+This project implements a **Super-Resolution Generative Adversarial Network (SRGAN)** to enhance low-resolution images.
 
-## Installation
-```bash
-pip install -r requirements.txt
+## Requirements
+- TensorFlow
+- OpenCV
+- NumPy
+- Matplotlib
+
+## Usage
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/SRGAN-Project.git
+   cd SRGAN-Project
