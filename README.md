@@ -11,5 +11,5 @@ This project implements a **Super-Resolution Generative Adversarial Network (SRG
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/SRGAN-Project.git
+   git clone https://github.com/Mehamza/SRGAN-Project.git
    cd SRGAN-Project
